@@ -1,2 +1,2 @@
-# Sales_Prediction_Spark
-Predicting sale prices using a simple linear regression model
+# Sales_Prediction in Apache Spark
+Predicting sale prices using a simple linear regression model implemented using MLlib in Apache Spark
